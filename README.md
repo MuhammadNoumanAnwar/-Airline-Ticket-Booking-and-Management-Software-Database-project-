@@ -1,0 +1,2 @@
+# -Airline-Ticket-Booking-and-Management-Software-Database-project-
+This is an airline ticket management software which is a web based application developed by me and in collaboration with my project team M.Muzammil Tanvir and Abdul Samad. The software has an admin and also allows multiple clients to book ,cancel and check flight status using there own Profile. Check project report for other technical details.
